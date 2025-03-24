@@ -1,4 +1,11 @@
-## Hello World! Eu sou a Julyane Silva
+## Olá! Eu sou Julyane 👋
+
+<div>
+ 📖 Graduada em Gestão da Tecnologia da Informação
+ 💻 Desenvolvedora Front-End 
+ 🌱 Atualmente aprendendo: Node.JS, TypeScript
+ 🎯 Objetivo: Aprendizado como Desenvolvedora Full-Stack
+</div>
 
 <div>
   <a href="https://github.com/jusbtt">
@@ -13,7 +20,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
 </div>
