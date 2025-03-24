@@ -1,4 +1,4 @@
-## Olá! Eu sou Julyane 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FFAE14&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Bem-Vindo(a)!++Eu+sou+a+Julyane.)](https://git.io/typing-svg)
 
 <div>
  📖 Graduada em Gestão da Tecnologia da Informação <br>
