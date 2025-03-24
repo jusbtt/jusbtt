@@ -1,11 +1,13 @@
 ## Olá! Eu sou Julyane 👋
 
 <div>
- 📖 Graduada em Gestão da Tecnologia da Informação
- 💻 Desenvolvedora Front-End 
- 🌱 Atualmente aprendendo: Node.JS, TypeScript
- 🎯 Objetivo: Aprendizado como Desenvolvedora Full-Stack
+ 📖 Graduada em Gestão da Tecnologia da Informação <br>
+ 💻 Desenvolvedora Front-End <br>
+ 🌱 Atualmente aprendendo: Node.JS, TypeScript <br>
+ 🎯 Objetivo: Aprendizado como Desenvolvedora Full-Stack <br>
 </div>
+
+##
 
 <div>
   <a href="https://github.com/jusbtt">
